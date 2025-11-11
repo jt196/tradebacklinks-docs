@@ -7,19 +7,13 @@
 3. TTL can delay confirmation by up to an hour. Use a DNS lookup tool to confirm propagation.
 4. If the record looks correct but TradeBacklinks still shows "Pending," hit **Recheck DNS**. The app re-queries Postmark immediately.
 
-## RapidAPI quota errors appear in the dashboard.
-
-- Open **Settings → Integrations** and confirm the RapidAPI key is still active.
-- Reduce Autopilot pace temporarily so discovery jobs stay within the monthly quota.
-- Consider upgrading the RapidAPI plan for the connectors you rely on most (SimilarWeb, SEO Traffic & Authority, DataForSEO).
-
-## A partner says they never received our outreach email.
+## A partner says they never received our outreach email
 
 - Make sure the sending domain shows "Verified" in **Email Accounts** and that the inbox has not hit its daily send cap.
 - Check the **Inbox summary** to see if a bounce was recorded. If so, update the contact’s email and requeue the opportunity.
 - Confirm the unsubscribe flag is not set for that contact.
 
-## Links we won disappeared from the partner site.
+## Links we won disappeared from the partner site
 
 - Go to **Domain Monitoring → Lost links** to see the crawl status.
 - Use the "Request reactivation" quick action, which sends a polite reminder referencing the original compensation agreement.
