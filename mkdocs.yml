@@ -11,13 +11,13 @@ nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Dashboard:
-      - Overview: dashboard.md
-      - SEO Strategy: seo-strategy.md
-      - Domain Monitoring: domain-monitoring.md
-      - Compensation Plan: compensation-plan.md
-      - Backlink Marketplace: backlink-marketplace.md
-      - Email Accounts: email-accounts.md
-      - Settings: settings.md
+      - Overview: dashboard/dashboard.md
+      - SEO Strategy: dashboard/seo-strategy.md
+      - Domain Monitoring: dashboard/domain-monitoring.md
+      - Compensation Plan: dashboard/compensation-plan.md
+      - Backlink Marketplace: dashboard/backlink-marketplace.md
+      - Email Accounts: dashboard/email-accounts.md
+      - Settings: dashboard/settings.md
   - FAQ: faq.md
   - Glossary: glossary.md
 markdown_extensions:

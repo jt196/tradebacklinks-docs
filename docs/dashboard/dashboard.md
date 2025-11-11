@@ -12,9 +12,9 @@ The dashboard home keeps your program on track with a single glance.
 
 Jump to the sidebar items below to dive deeper.
 
-- [SEO Strategy](seo-strategy.md)
-- [Domain Monitoring](domain-monitoring.md)
-- [Compensation Plan](compensation-plan.md)
-- [Backlink Marketplace](backlink-marketplace.md)
-- [Email Accounts](email-accounts.md)
-- [Settings](settings.md)
+- [SEO Strategy](dashboard/seo-strategy.md)
+- [Domain Monitoring](dashboard/domain-monitoring.md)
+- [Compensation Plan](dashboard/compensation-plan.md)
+- [Backlink Marketplace](dashboard/backlink-marketplace.md)
+- [Email Accounts](dashboard/email-accounts.md)
+- [Settings](dashboard/settings.md)

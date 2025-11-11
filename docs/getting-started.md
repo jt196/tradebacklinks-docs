@@ -32,7 +32,7 @@ Follow these steps to go from signup to your first Autopilot campaign.
 2. Toggle on the offers you’re comfortable with (swaps, guest posts, product demos, etc.).
 3. Reorder them so Autopilot leads with your preferred incentive.
 
-[Learn More](compensation-plan.md)
+[Learn More](dashboard/compensation-plan.md)
 
 ![Choose Plan](static/images/dashboard/04-compensation-plan.png)
 
@@ -42,7 +42,7 @@ Follow these steps to go from signup to your first Autopilot campaign.
 2. Add at least one inbox per domain once DNS verifies.
 3. Monitor the summary cards (sent emails, replies, spam complaints) to ensure deliverability.
 
-[Learn More](email-accounts.md)
+[Learn More](dashboard/email-accounts.md)
 
 ![Choose Plan](static/images/dashboard/03-domain-monitoring.png)
 
@@ -52,6 +52,6 @@ Follow these steps to go from signup to your first Autopilot campaign.
 2. Toggle Autopilot on. The system will queue daily outreach based on scoring and your compensation rules.
 3. Track progress from the dashboard and pause Autopilot anytime.
 
-[Learn More](seo-strategy.md)
+[Learn More](dashboard/seo-strategy.md)
 
-Next: review each dashboard module for more context.
+Next: review each [dashboard](dashboard.md) module for more context.
