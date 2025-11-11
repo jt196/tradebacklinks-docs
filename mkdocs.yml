@@ -8,18 +8,18 @@ theme:
       primary: blue
       accent: teal
 nav:
-  - Home: docs/index.md
-  - Getting Started: docs/getting-started.md
+  - Home: /docs/index.md
+  - Getting Started: /docs/getting-started.md
   - Dashboard:
-      - Overview: docs/dashboard.md
-      - SEO Strategy: docs/seo-strategy.md
-      - Domain Monitoring: docs/domain-monitoring.md
-      - Compensation Plan: docs/compensation-plan.md
-      - Backlink Marketplace: docs/backlink-marketplace.md
-      - Email Accounts: docs/email-accounts.md
-      - Settings: docs/settings.md
-  - FAQ: docs/faq.md
-  - Glossary: docs/glossary.md
+      - Overview: /docs/dashboard.md
+      - SEO Strategy: /docs/seo-strategy.md
+      - Domain Monitoring: /docs/domain-monitoring.md
+      - Compensation Plan: /docs/compensation-plan.md
+      - Backlink Marketplace: /docs/backlink-marketplace.md
+      - Email Accounts: /docs/email-accounts.md
+      - Settings: /docs/settings.md
+  - FAQ: /docs/faq.md
+  - Glossary: /docs/glossary.md
 markdown_extensions:
   - toc:
       permalink: true
