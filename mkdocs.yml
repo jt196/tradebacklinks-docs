@@ -1,0 +1,28 @@
+site_name: TradeBacklinks Help Center
+site_url: https://docs.tradebacklinks.com
+repo_url: https://github.com/tradebacklinks/platform
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: teal
+nav:
+  - Home: docs/help/index.md
+  - Getting Started: docs/help/getting-started.md
+  - Dashboard:
+      - Overview: docs/help/dashboard.md
+      - SEO Strategy: docs/help/seo-strategy.md
+      - Domain Monitoring: docs/help/domain-monitoring.md
+      - Compensation Plan: docs/help/compensation-plan.md
+      - Backlink Marketplace: docs/help/backlink-marketplace.md
+      - Email Accounts: docs/help/email-accounts.md
+      - Settings: docs/help/settings.md
+  - FAQ: docs/help/faq.md
+  - Glossary: docs/help/glossary.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
+  - tables
